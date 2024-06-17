@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="DI.DAO.BoardDAO"/>
+    <fullyQualifiedTypeName name="DI.DAO.CommentDAO"/>
+    <fullyQualifiedTypeName name="DI.Service.MyService"/>
+    <fullyQualifiedTypeName name="DI.DTO.Board"/>
+    <fullyQualifiedTypeName name="DI.DTO.Comment"/>
+</qualifiedTypeNameHistroy>
